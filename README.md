@@ -1,6 +1,9 @@
-# Python-para-estatisticos
+# Python para Estatisticos
+
+![https://giphy.com/gifs/python-eH9sawQbajAQM]!
+
 Repositorio para desenvolvimento , e armazenamento da disciplina de Python para estatisticos
 
 ## Material
 
-__[link1](tmfilho.github.io/pyestbook)_
+_[Pyestbook](https://tmfilho.github.io/pyestbook/intro)_
