@@ -1,6 +1,6 @@
 # Python para Estatisticos
 
-<img src = "https://lorenabarba.com/wp-content/uploads/2014/05/keep-calm-and-code-python_BW.png" height = "80" width = "100">
+<img src = "https://lorenabarba.com/wp-content/uploads/2014/05/keep-calm-and-code-python_BW.png" height = "200" width = "160">
 
 Repositorio para desenvolvimento , e armazenamento da disciplina de Python para estatisticos
 
