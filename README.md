@@ -1,12 +1,13 @@
 # Python para Estatisticos
 
-![](https://lorenabarba.com/wp-content/uploads/2014/05/keep-calm-and-code-python_BW.png)
+<img src = "https://lorenabarba.com/wp-content/uploads/2014/05/keep-calm-and-code-python_BW.png" height = "80" width = "100">
 
 Repositorio para desenvolvimento , e armazenamento da disciplina de Python para estatisticos
 
 ## Material
 
 _[Pyestbook](https://tmfilho.github.io/pyestbook/intro)_
+
 _[Exercicios capitulo 1](https://tmfilho.github.io/pyestbook/guide/08_exer.html)_
 
 ## Aulas 
