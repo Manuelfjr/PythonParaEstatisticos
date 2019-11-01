@@ -10,6 +10,8 @@ _[Pyestbook](https://tmfilho.github.io/pyestbook/intro)_
 
 _[Exercicios capitulo 1](https://tmfilho.github.io/pyestbook/guide/08_exer.html)_
 
+_[Exercicios resolvidos : capitulo 1](https://github.com/Manuelfjr/PythonParaEstatisticos/blob/master/ExeChapter_1.ipynb)_
+
 ## Aulas 
 
 _Aula 1 : Introdução a linguagem de Programação Python_
