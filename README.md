@@ -18,4 +18,4 @@ _Aula 2 : Conceitos Iniciais: Tipos de Dados, Operadores e Expressão, Vetores e
 
 _Aula 3 : (Exercicios)_
 
-_Aula 4 :_
+_Aula 4 : Classes_
