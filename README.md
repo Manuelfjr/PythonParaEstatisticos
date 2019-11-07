@@ -20,4 +20,10 @@ _Aula 2 : Conceitos Iniciais: Tipos de Dados, Operadores e Expressão, Vetores e
 
 _Aula 3 : (Exercicios)_
 
-_Aula 4 : Classes_
+_Aula 4 : Classes, Modulos e Importação (**OOP**)_
+
+_Aula 5 : Classes (Exercicios)_
+
+- BinomialDistribution;
+
+- PoissonDistribution.
