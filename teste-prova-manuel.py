@@ -37,7 +37,7 @@ def Q02(Xnp, k):
 
     for j in range(k):
         
-        Wkp.append(Xnp[np.random.randint(len(Xnp[:, 1]), size = 1)])
+        Wkp.append(Xnp[np.choice(len(Xnp), k, replace = True)])
 
     Wkp = np.vstack(Wkp)
     
